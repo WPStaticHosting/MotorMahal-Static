@@ -10,7 +10,7 @@
 /*--------------------------------------------------------------*/
 @font-face {
 	font-family: 'powerkit-icons';
-	src: url("https://static.motormahal.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.woff") format("woff"), url("https://static.motormahal.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.ttf") format("truetype"), url("https://static.motormahal.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.svg") format("svg");
+	src: url("https://motormahal.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.woff") format("woff"), url("https://motormahal.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.ttf") format("truetype"), url("https://motormahal.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.svg") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;

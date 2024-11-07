@@ -5,8 +5,8 @@
 /* Basic Style */
 @font-face {
 	font-family: 'sight-portfolio-icons';
-	src: url("https://static.motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.eot?2kdktd");
-	src: url("https://static.motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.eot?2kdktd#iefix") format("embedded-opentype"), url("https://static.motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.ttf?2kdktd") format("truetype"), url("https://static.motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.woff?2kdktd") format("woff"), url("https://static.motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.svg?2kdktd#sight-portfolio") format("svg");
+	src: url("https://motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.eot?2kdktd");
+	src: url("https://motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.eot?2kdktd#iefix") format("embedded-opentype"), url("https://motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.ttf?2kdktd") format("truetype"), url("https://motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.woff?2kdktd") format("woff"), url("https://motormahal.com/wp-content/plugins/sight/render/icon-fonts/sight-portfolio-icons.svg?2kdktd#sight-portfolio") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;

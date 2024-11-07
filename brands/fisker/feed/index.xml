@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Fisker &#8211; Motor Mahal</title>
-	<atom:link href="https://static.motormahal.com/brands/fisker/feed/" rel="self" type="application/rss+xml" />
-	<link>https://static.motormahal.com/</link>
+	<atom:link href="https://motormahal.com/brands/fisker/feed/" rel="self" type="application/rss+xml" />
+	<link>https://motormahal.com/</link>
 	<description>Driving Stories of Elegance and Power</description>
 	<lastBuildDate>Tue, 05 Nov 2024 16:57:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://static.motormahal.com/wp-content/uploads/2024/11/cropped-Motor-Mahal-Logo-BG-Removed-32x32.png</url>
+	<url>https://motormahal.com/wp-content/uploads/2024/11/cropped-Motor-Mahal-Logo-BG-Removed-32x32.png</url>
 	<title>Fisker &#8211; Motor Mahal</title>
-	<link>https://static.motormahal.com/</link>
+	<link>https://motormahal.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Fisker Ocean Drive: Great Concept, Flawed Execution &#8211; Our Impressions</title>
-		<link>https://static.motormahal.com/fisker-ocean-drive-great-concept-flawed-execution/</link>
-					<comments>https://static.motormahal.com/fisker-ocean-drive-great-concept-flawed-execution/#respond</comments>
+		<link>https://motormahal.com/fisker-ocean-drive-great-concept-flawed-execution/</link>
+					<comments>https://motormahal.com/fisker-ocean-drive-great-concept-flawed-execution/#respond</comments>
 		
 		<dc:creator><![CDATA[Mohamed Farhan Fazal]]></dc:creator>
 		<pubDate>Tue, 05 Nov 2024 16:51:06 +0000</pubDate>
 				<category><![CDATA[Fisker]]></category>
 		<category><![CDATA[Ocean]]></category>
-		<guid isPermaLink="false">https://static.motormahal.com/?p=260</guid>
+		<guid isPermaLink="false">https://motormahal.com/?p=260</guid>
 
 					<description><![CDATA[The Fisker Ocean Drive brings an exciting, eco-friendly vision to the electric SUV market, boasting innovative design and impressive sustainability features. However, our review reveals some challenges in its execution, from software glitches to lackluster driving performance. In this post, we dive into the pros and cons of Fisker's promising yet imperfect Ocean Drive.]]></description>
 		
-					<wfw:commentRss>https://static.motormahal.com/fisker-ocean-drive-great-concept-flawed-execution/feed/</wfw:commentRss>
+					<wfw:commentRss>https://motormahal.com/fisker-ocean-drive-great-concept-flawed-execution/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
