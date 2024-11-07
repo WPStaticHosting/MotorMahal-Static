@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>TVS &#8211; Motor Mahal</title>
+	<atom:link href="https://static.motormahal.com/brands/tvs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://static.motormahal.com/</link>
+	<description>Driving Stories of Elegance and Power</description>
+	<lastBuildDate>Mon, 04 Nov 2024 05:55:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://static.motormahal.com/wp-content/uploads/2024/11/cropped-Motor-Mahal-Logo-BG-Removed-32x32.png</url>
+	<title>TVS &#8211; Motor Mahal</title>
+	<link>https://static.motormahal.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>TVS Jupiter 110 Mileage Test 2024 Model: Is It Worth the Fuel Efficiency Hype?</title>
+		<link>https://static.motormahal.com/tvs-jupiter-110-mileage-test-2024-model-is-it-worth-the-fuel-efficiency-hype/</link>
+					<comments>https://static.motormahal.com/tvs-jupiter-110-mileage-test-2024-model-is-it-worth-the-fuel-efficiency-hype/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohamed Farhan Fazal]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2024 05:10:27 +0000</pubDate>
+				<category><![CDATA[TVS]]></category>
+		<category><![CDATA[Jupiter 110]]></category>
+		<guid isPermaLink="false">https://static.motormahal.com/?p=174</guid>
+
+					<description><![CDATA[Real-world mileage tested! See how the 2024 TVS Jupiter 110 performs on city roads—can it hit 48 kmpl? Find out now!]]></description>
+		
+					<wfw:commentRss>https://static.motormahal.com/tvs-jupiter-110-mileage-test-2024-model-is-it-worth-the-fuel-efficiency-hype/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
