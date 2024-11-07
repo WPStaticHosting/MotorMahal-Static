@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Tuono 457 &#8211; Motor Mahal</title>
+	<atom:link href="https://motormahal.com/tag/tuono-457/feed/" rel="self" type="application/rss+xml" />
+	<link>https://motormahal.com/</link>
+	<description>Driving Stories of Elegance and Power</description>
+	<lastBuildDate>Tue, 05 Nov 2024 17:42:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://motormahal.com/wp-content/uploads/2024/11/cropped-Motor-Mahal-Logo-BG-Removed-32x32.png</url>
+	<title>Tuono 457 &#8211; Motor Mahal</title>
+	<link>https://motormahal.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aprilia Tuono 457 First Look: Unveiling the Features and Specs of This Exciting New Model</title>
+		<link>https://motormahal.com/aprilia-tuono-457-first-look-unveiling-the-features-and-specs-of-this-exciting-new-model/</link>
+					<comments>https://motormahal.com/aprilia-tuono-457-first-look-unveiling-the-features-and-specs-of-this-exciting-new-model/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohamed Farhan Fazal]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2024 17:42:56 +0000</pubDate>
+				<category><![CDATA[Automotive]]></category>
+		<category><![CDATA[Aprilia]]></category>
+		<category><![CDATA[Tuono 457]]></category>
+		<guid isPermaLink="false">https://motormahal.com/?p=272</guid>
+
+					<description><![CDATA[The Aprilia Tuono 457 is set to redefine the mid-weight naked bike segment with its cutting-edge design, advanced features, and thrilling performance. In this first look, we dive into its sleek aesthetics, robust 457cc engine, and innovative tech that promises an exhilarating ride. Get a closer look at why this model is stealing the spotlight!]]></description>
+		
+					<wfw:commentRss>https://motormahal.com/aprilia-tuono-457-first-look-unveiling-the-features-and-specs-of-this-exciting-new-model/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

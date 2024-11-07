@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Hummer H1 &#8211; Motor Mahal</title>
+	<atom:link href="https://motormahal.com/tag/hummer-h1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://motormahal.com/</link>
+	<description>Driving Stories of Elegance and Power</description>
+	<lastBuildDate>Tue, 05 Nov 2024 17:01:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://motormahal.com/wp-content/uploads/2024/11/cropped-Motor-Mahal-Logo-BG-Removed-32x32.png</url>
+	<title>Hummer H1 &#8211; Motor Mahal</title>
+	<link>https://motormahal.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New Hummer EV vs Original Hummer H1: A Comprehensive Comparison Test</title>
+		<link>https://motormahal.com/new-hummer-ev-vs-original-hummer-h1-a-comprehensive-comparison-test/</link>
+					<comments>https://motormahal.com/new-hummer-ev-vs-original-hummer-h1-a-comprehensive-comparison-test/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohamed Farhan Fazal]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2024 16:50:30 +0000</pubDate>
+				<category><![CDATA[Automotive]]></category>
+		<category><![CDATA[Hummer EV]]></category>
+		<category><![CDATA[Hummer H1]]></category>
+		<guid isPermaLink="false">https://motormahal.com/?p=264</guid>
+
+					<description><![CDATA[Curious how the futuristic Hummer EV stacks up against the legendary Hummer H1? In this comprehensive comparison, we put both models to the test, examining everything from their powertrains and off-road capabilities to their design and sustainability. Whether you're an off-road enthusiast or tech fanatic, this showdown offers insights into these iconic vehicles' evolution.]]></description>
+		
+					<wfw:commentRss>https://motormahal.com/new-hummer-ev-vs-original-hummer-h1-a-comprehensive-comparison-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
