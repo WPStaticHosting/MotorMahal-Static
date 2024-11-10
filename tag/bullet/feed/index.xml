@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Bullet &#8211; Motor Mahal</title>
+	<atom:link href="https://motormahal.com/tag/bullet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://motormahal.com/</link>
+	<description>Driving Stories of Elegance and Power</description>
+	<lastBuildDate>Sat, 09 Nov 2024 19:26:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://motormahal.com/wp-content/uploads/2024/11/cropped-Motor-Mahal-Logo-BG-Removed-32x32.png</url>
+	<title>Bullet &#8211; Motor Mahal</title>
+	<link>https://motormahal.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Classic Bikes that Shaped Indian Motorcycling: The Royal Enfield Story</title>
+		<link>https://motormahal.com/classic-bikes-that-shaped-indian-motorcycling-the-royal-enfield-story/</link>
+					<comments>https://motormahal.com/classic-bikes-that-shaped-indian-motorcycling-the-royal-enfield-story/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohamed Farhan Fazal]]></dc:creator>
+		<pubDate>Sat, 09 Nov 2024 19:26:34 +0000</pubDate>
+				<category><![CDATA[Royal Enfield]]></category>
+		<category><![CDATA[Bullet]]></category>
+		<category><![CDATA[Continental GT]]></category>
+		<category><![CDATA[Continental GT 650]]></category>
+		<category><![CDATA[Interceptor 650]]></category>
+		<guid isPermaLink="false">https://motormahal.com/?p=366</guid>
+
+					<description><![CDATA[The Royal Enfield Thunderbird redefines urban motorcycling by blending classic charm with cruiser comfort and style. Designed for city riders, it offers relaxed ergonomics and a powerful engine, ideal for both city streets and highways. Known for its smooth ride and reliable performance, the Thunderbird is a staple for riders seeking style and substance in daily commutes and weekend getaways.]]></description>
+		
+					<wfw:commentRss>https://motormahal.com/classic-bikes-that-shaped-indian-motorcycling-the-royal-enfield-story/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
